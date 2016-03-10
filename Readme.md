@@ -171,7 +171,6 @@ Love our work and community? [[Become a backer](https://opencollective.com/apex)
   <a href="https://opencollective.com/apex/backers/26/website" target="_blank"><img src="https://opencollective.com/apex/backers/26/avatar"></a>
   <a href="https://opencollective.com/apex/backers/27/website" target="_blank"><img src="https://opencollective.com/apex/backers/27/avatar"></a>
   <a href="https://opencollective.com/apex/backers/28/website" target="_blank"><img src="https://opencollective.com/apex/backers/28/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/29/website" target="_blank"><img src="https://opencollective.com/apex/backers/29/avatar"></a>
 
 ## Sponsors
 
